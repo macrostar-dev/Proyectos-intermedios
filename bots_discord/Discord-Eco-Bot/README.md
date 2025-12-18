@@ -1,0 +1,3 @@
+En español: Un bot interactivo para Discord desarrollado con la librería discord.py. Este proyecto demuestra el manejo de eventos asíncronos (async/await), la configuración de privilegios de lectura de mensajes (intents) y la creación de comandos personalizados para interactuar con usuarios en servidores externos, permitiendo automatizar respuestas y gestionar la comunicación en tiempo real.
+
+In English: An interactive Discord bot developed using the discord.py library. This project demonstrates the use of asynchronous programming (async/await), message intent configuration, and the creation of custom commands to interact with users on external servers, allowing for automated responses and real-time communication management.
